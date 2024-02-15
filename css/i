@@ -1,7 +1,0 @@
-php texte ilusorio
-
-$var = 5;
-$res = 0;
-
-$res = $var *2 + w_ph;
-
